@@ -20,7 +20,7 @@ body * {
 
 /*Logo Styles and Call Now bubble*/
 .logo span {
-  z-index: -1;
+  z-index: 1;
   font-size: 150px;
   color: #d36f04;
 }
