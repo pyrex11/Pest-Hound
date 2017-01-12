@@ -172,6 +172,10 @@ p span {
     box-shadow: none;
 }
 
+.btn-primary-disbaled:hover  {
+    background: #af5c04;
+}
+
 /*Footer Styles*/
 .panel-footer {
   background-color: #c4c4c4;
