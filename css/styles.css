@@ -172,8 +172,9 @@ p span {
     box-shadow: none;
 }
 
-.btn-primary-disbaled:hover  {
+.btn-primary.disabled:hover  {
     background: #af5c04;
+    border: 1px solid #964f03;
 }
 
 /*Footer Styles*/
